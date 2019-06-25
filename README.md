@@ -1,8 +1,16 @@
 # David Ryan Portfolio
 
+## Introduction
+I am a Irish Software Engineer who has recently graduated from the Computer Games Development course in University of Limerick. I have worked at both Demonware and Google as an intern during the my time on the course.
+
+The following is a selection of the more interesting projects I have worked on. Apart from my Final Year Project, they are all group projects. Source code is available on request where not already provided.
+
 ***
+
 # Projects
+
 ***
+
 ## Game Object Request Broker (Gorb)
 Gorb is my Final Year Project for my undergraduate degree in Computer Games Development from University of Limerick. It is a framework for storing and retrieving serialized game objects at runtime. The project consists of several components:
 * An RPC server for storing and retrieving serialized binary objects from a database
@@ -23,6 +31,7 @@ Gorb is my Final Year Project for my undergraduate degree in Computer Games Deve
 #### Links
 * [Github Repository](https://github.com/david159ryan/gorb)
 * [FYP Report](https://github.com/david159ryan/gorb/raw/master/docs/FYP%20Final%20Report.pdf) (PDF Download)
+
 #### Video Demonstration
 The demo below showcases the following features of the project:
 * Starting the server
@@ -56,6 +65,7 @@ Play by yourself, with a friend, against a friend or 2 v 2 in this fast paced ra
 </p>
 
 #### Video Demonstration
+
 <iframe width="600" height="480"
 src="https://www.youtube.com/embed/AudlKPztwJk?autoplay=0&cc_load_policy=1&rel=0&showinfo=0"
 frameborder="0" allowfullscreen>
@@ -67,6 +77,7 @@ BOOM is an isometric dungeon runner game of Speed and Punishment. It was develop
 #### Links
 * [Github Repository](https://github.com/dwarfplumber/BOOM)
 * [Game Design Doc](https://github.com/dwarfplumber/BOOM/blob/master/BOOM/GDD/BOOM_DD.pdf)
+
 #### Video Demonstration
 <iframe width="800" height="480" src="https://www.youtube.com/embed/4kTkj26uckg?autoplay=0&cc_load_policy=1&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -78,6 +89,7 @@ BOOM is an isometric dungeon runner game of Speed and Punishment. It was develop
 <iframe width="800" height="480" src="https://www.youtube.com/embed/q_F0A4gU0dY?autoplay=0&cc_load_policy=1&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ***
+
 ## Grave Mistake
 
 Grave Mistake is a 2nd year project made using the Skyrim Creation Kit. It was designed as a standalone game made using Skyrim's assets and tools.
@@ -86,4 +98,5 @@ Grave Mistake is a 2nd year project made using the Skyrim Creation Kit. It was d
 
 You're a grave robber trying to find treasure inside a graveyard full of statues, only one of the statues has been possessed by the soul of a serial killer and is out to murder you. This possessed statue will only move when it is out of your line of sight, and being in a graveyard full of statues, you have no idea which one it is!! Can you find your treasure before the killer finds you? Queue dramatic horror music...
 
+#### Video Demonstration
 <iframe width="800" height="480" src="https://www.youtube.com/embed/NV_4raFyGaE?autoplay=0&cc_load_policy=1&rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
