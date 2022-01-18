@@ -1,7 +1,7 @@
 # David Ryan Portfolio
 
 ## Introduction
-I am a Irish Software Engineer who has recently graduated from the Computer Games Development course in University of Limerick. I have worked at both Demonware and Google as an intern during the my time on the course.
+I am a Irish Software Engineer who graduated from the Computer Games Development course in University of Limerick in 2019 and is currently working Ubisoft Düsseldorf as a C++ Backend Developer. I have also completed internships at both Google and Demonware in Dublin during the course of my studies.
 
 The following is a selection of the more interesting projects I have worked on. Apart from my Final Year Project, they are all group projects. Source code is available on request where not already provided.
 
