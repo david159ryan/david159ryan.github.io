@@ -28,10 +28,6 @@ Gorb is my Final Year Project for my undergraduate degree in Computer Games Deve
 #### Technologies
 * Docker, CMake, Visual Studio, Unreal Editor, MySQL, Cap'n Proto, Prometheus, Grafana
 
-#### Links
-* [Github Repository](https://github.com/david159ryan/gorb)
-* [FYP Report](https://github.com/david159ryan/gorb/raw/master/docs/FYP%20Final%20Report.pdf) (PDF Download)
-
 #### Video Demonstration
 The demo below showcases the following features of the project:
 * Starting the server
